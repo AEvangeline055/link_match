@@ -6,16 +6,16 @@ filter: Linear,Linear
 repeat: none
 fx/tear
   rotate: false
-  xy: 603, 237
+  xy: 779, 237
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
   index: -1
 pig/arm
   rotate: false
-  xy: 570, 237
-  size: 31, 41
-  orig: 31, 41
+  xy: 628, 237
+  size: 149, 42
+  orig: 149, 42
   offset: 0, 0
   index: -1
 pig/body
@@ -34,28 +34,28 @@ pig/body_wave
   index: -1
 pig/brow_l
   rotate: false
-  xy: 713, 237
+  xy: 889, 237
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 pig/brow_r
   rotate: false
-  xy: 739, 237
+  xy: 915, 237
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 pig/cheek_l
   rotate: false
-  xy: 627, 237
+  xy: 803, 237
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
   index: -1
 pig/cheek_r
   rotate: false
-  xy: 670, 237
+  xy: 846, 237
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
@@ -76,14 +76,14 @@ pig/ear_r
   index: -1
 pig/earback_l
   rotate: false
-  xy: 402, 237
+  xy: 460, 237
   size: 40, 45
   orig: 40, 45
   offset: 0, 0
   index: -1
 pig/earback_r
   rotate: false
-  xy: 444, 237
+  xy: 502, 237
   size: 41, 45
   orig: 41, 45
   offset: 0, 0
@@ -109,6 +109,13 @@ pig/face
   orig: 294, 235
   offset: 0, 0
   index: -1
+pig/hand
+  rotate: false
+  xy: 257, 237
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
 pig/nose
   rotate: false
   xy: 164, 237
@@ -125,21 +132,21 @@ pig/pants
   index: -1
 pig/shine_l
   rotate: false
-  xy: 487, 237
+  xy: 545, 237
   size: 42, 43
   orig: 42, 43
   offset: 0, 0
   index: -1
 pig/shine_r
   rotate: false
-  xy: 531, 237
+  xy: 589, 237
   size: 37, 43
   orig: 37, 43
   offset: 0, 0
   index: -1
 pig/shirt
   rotate: false
-  xy: 257, 237
+  xy: 315, 237
   size: 143, 48
   orig: 143, 48
   offset: 0, 0
