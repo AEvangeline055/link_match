@@ -1,0 +1,132 @@
+
+chef.png
+size: 1024,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chef/arm-relaxed
+  rotate: false
+  xy: 459, 282
+  size: 190, 151
+  orig: 190, 151
+  offset: 0, 0
+  index: -1
+chef/arm-thumbs-up
+  rotate: false
+  xy: 267, 282
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+chef/brows-happy
+  rotate: false
+  xy: 523, 503
+  size: 148, 40
+  orig: 148, 40
+  offset: 0, 0
+  index: -1
+chef/brows-neutral
+  rotate: false
+  xy: 673, 503
+  size: 148, 35
+  orig: 148, 35
+  offset: 0, 0
+  index: -1
+chef/brows-sad
+  rotate: false
+  xy: 373, 503
+  size: 148, 43
+  orig: 148, 43
+  offset: 0, 0
+  index: -1
+chef/eyes-blink
+  rotate: false
+  xy: 0, 569
+  size: 145, 30
+  orig: 145, 30
+  offset: 0, 0
+  index: -1
+chef/eyes-happy
+  rotate: false
+  xy: 147, 569
+  size: 145, 30
+  orig: 145, 30
+  offset: 0, 0
+  index: -1
+chef/eyes-open
+  rotate: false
+  xy: 0, 503
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+chef/eyes-sad
+  rotate: false
+  xy: 226, 503
+  size: 145, 56
+  orig: 145, 56
+  offset: 0, 0
+  index: -1
+chef/hair
+  rotate: false
+  xy: 0, 282
+  size: 265, 219
+  orig: 265, 219
+  offset: 0, 0
+  index: -1
+chef/hat
+  rotate: false
+  xy: 292, 0
+  size: 326, 250
+  orig: 326, 250
+  offset: 0, 0
+  index: -1
+chef/head
+  rotate: false
+  xy: 0, 0
+  size: 290, 280
+  orig: 290, 280
+  offset: 0, 0
+  index: -1
+chef/moustache
+  rotate: false
+  xy: 651, 282
+  size: 217, 77
+  orig: 217, 77
+  offset: 0, 0
+  index: -1
+chef/mouth-happy
+  rotate: false
+  xy: 870, 282
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+chef/mouth-sad
+  rotate: false
+  xy: 915, 503
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+chef/mouth-smile
+  rotate: false
+  xy: 823, 503
+  size: 90, 35
+  orig: 90, 35
+  offset: 0, 0
+  index: -1
+chef/nose
+  rotate: false
+  xy: 147, 503
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+chef/torso
+  rotate: false
+  xy: 620, 0
+  size: 330, 221
+  orig: 330, 221
+  offset: 0, 0
+  index: -1
