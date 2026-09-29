@@ -1267,7 +1267,7 @@
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "sheet.png",
+	"image": "sheet.webp",
 	"format": "RGBA8888",
 	"size": {"w":4093,"h":3161},
 	"scale": "1",
